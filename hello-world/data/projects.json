@@ -1,0 +1,19 @@
+[
+    {
+        "title": "F1 News Feed PWA",
+        "slug": "projec1",
+        "url": "https://amateur-dev.github.io/F1NewsPWA/",
+        "image": "./project1.png",
+        "description": "A progressive web app to get the top news items for F1"
+
+    },
+    {
+        "title": "Python / Flask Application Project",
+        "slug": "projec2",
+        "url": "http://dipesh-book-app.herokuapp.com/",
+        "image": "./project2.png",
+        "description": "A Python Flask PSQL Application Project similar to goodreads"
+
+    }
+]
+
